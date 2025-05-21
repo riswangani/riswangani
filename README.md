@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1>Hi 👋, I'm Gani</h1>
 <p>A passionate Software Developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
